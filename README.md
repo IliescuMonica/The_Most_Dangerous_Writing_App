@@ -1,6 +1,6 @@
 # The Most Dangerous Writing App ✍️
 
-A desktop writing app inspired by [The Most Dangerous Writing App](https://www.squibler.io/dangerous-writing-prompt-app).
+A desktop writing app inspired by [Dangerous Writing App](https://www.squibler.io/dangerous-writing-prompt-app).
 
 The idea is simple: **keep writing or lose everything.**
 
